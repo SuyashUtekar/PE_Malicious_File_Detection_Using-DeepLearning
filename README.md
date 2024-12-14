@@ -62,12 +62,10 @@ Modeling: A fully connected neural network (ANN) is trained on the extracted bot
 2) **Classification Model**
 - *Top-Performing Model*: The ANN model trained on bottleneck features achieved the highest accuracy.
 - *Metrics*:
--- Accuracy: 0.9965
--- Precision: 0.9951
--- Recall: 0.9938
--- F1-Score: 0.9945
-
-- *Cross-Validation*: Mean cross-validation score of 0.9872, showcasing generalization.
+  - Accuracy: 0.9844
+  - Loss: 0.0481
+  - Validation Accuracy: 0.9863
+  - Validation Loss: 0.0410
 
 ## 📝 Conclusion
 This project demonstrates a successful implementation of deep learning techniques for malicious file detection:
