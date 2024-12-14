@@ -68,12 +68,6 @@ Modeling: A fully connected neural network (ANN) is trained on the extracted bot
 -- F1-Score: 0.9945
 
 - *Cross-Validation*: Mean cross-validation score of 0.9872, showcasing generalization.
-  
-## 📈 Visualizations:
-Model Loss
-<img src="https://github.com/user-attachments/assets/autoencoder-loss-plot" width="600" height="400"/>
-Accuracy Comparison
-<img src="https://github.com/user-attachments/assets/accuracy-comparison" width="600" height="400"/>
 
 ## 📝 Conclusion
 This project demonstrates a successful implementation of deep learning techniques for malicious file detection:
